@@ -39,6 +39,7 @@
     
 ### **📁 증빙 자료:**
   * [1차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+[AI 협업증명.pdf](https://github.com/user-attachments/files/26512834/AI.pdf)
 
 
 <br>
