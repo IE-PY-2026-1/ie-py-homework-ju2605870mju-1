@@ -74,7 +74,7 @@
       
 ### **📁 증빙 자료:**
   * [2차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
-file:///C:/Users/PC/Documents/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%20%EB%B0%9B%EC%9D%80%20%ED%8C%8C%EC%9D%BC/2%EC%B0%A8%20AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B2%98.pdf
+
   * [2차과제_실행결과.jpg]
 <br>
 
