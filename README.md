@@ -77,6 +77,7 @@
 
   * [2차과제_실행결과.jpg]https://github.com/IE-PY-2026-1/ie-py-homework-ju2605870mju-1/blob/main/KakaoTalk_20260428_043550431.jpg
   * https://github.com/IE-PY-2026-1/ie-py-homework-ju2605870mju-1/blob/main/KakaoTalk_20260428_043550431_01.jpg
+  * https://github.com/IE-PY-2026-1/ie-py-homework-ju2605870mju-1/blob/main/KakaoTalk_20260428_043550431_02.jpg
   * 
 
 ## 🟨 [3차 과제: V3.0] 무한 루프와 메뉴 시스템 (반복문) - 향후 작성 예정
