@@ -73,7 +73,7 @@
               판별을 구현함.
       
 ### **📁 증빙 자료:**
-  * [2차_AI협업캡처.pdf 첨부 완료] file:///C:/Users/PC/Downloads/2%EC%B0%A8%20AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B2%98.pdf
+  * [2차_AI협업캡처.pdf 첨부 완료] https://github.com/IE-PY-2026-1/ie-py-homework-ju2605870mju-1/blob/main/2%EC%B0%A8%20AI%ED%98%91%EC%97%85%EC%BA%A1%EC%B2%98.pdf
 
   * [2차과제_실행결과.jpg]
 <br>
