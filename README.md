@@ -106,7 +106,7 @@
      * **해결:** ..else문을 추가하여 올바르지 않은 메뉴를 입력했을 경우 다시 입력하도록 수정하였다.
      
 ### **📁 증빙 자료:**
-  * [3차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
+  * [3차_AI협업캡처.pdf 첨부 완료] https://github.com/IE-PY-2026-1/ie-py-homework-ju2605870mju-1/blob/main/3%EC%A3%BC%EC%B0%A8%20%EA%B3%BC%EC%A0%9C%20AI%ED%98%91%EC%97%85%EC%A6%9D%EB%AA%85.pdf
   * [3차과제_실행결과.jpg]
 <br>
 
