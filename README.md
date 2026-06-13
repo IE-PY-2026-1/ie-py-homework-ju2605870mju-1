@@ -140,4 +140,5 @@
 ### **📁 증빙 자료:**
   * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
   * [4차과제_실행결과.jpg]
+  * https://github.com/IE-PY-2026-1/ie-py-homework-ju2605870mju-1/blob/main/4%EC%B0%A8%EA%B3%BC%EC%A0%9C%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC1.jpg
 <br>
