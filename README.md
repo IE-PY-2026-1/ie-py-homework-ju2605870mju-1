@@ -133,9 +133,9 @@
     * **적용 내용:** ....
     
 ### **🛠️ Troubleshooting & 기술 회고:**
-  1. **문제 1:** ...
-     * **원인:** ...
-     * **해결:** ..
+  1. **문제 1:** 프로그램을 켜자마자 데이터를 아무것도 입력하지 않은 상태에서 2번 메뉴를 누르면 프로그램이 빈화면이 출력됨.
+     * **원인:** 데이터가 저장되는 이중 리스트가 비어 있을때에 대한 예외 처리가 메인 루프에 없었기 때문
+     * **해결:** 메인 while True 루프의 2번 메뉴 진입 시점에 if len(air_data) == 0: 조건문을 추가하여, 데이터가 없을 때에는 "입력된 데이터가 없습니다."를 뜨이ㅜ고 continue로 넘어가도록 에러를 선제 방어함.
      
 ### **📁 증빙 자료:**
   * [4차_AI협업캡처.pdf 첨부 완료] (첨부 후 링크)
@@ -145,4 +145,5 @@
   * https://github.com/IE-PY-2026-1/ie-py-homework-ju2605870mju-1/blob/main/4%EC%B0%A8%EA%B3%BC%EC%A0%9C%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC(3).jpg
   * https://github.com/IE-PY-2026-1/ie-py-homework-ju2605870mju-1/blob/main/4%EC%B0%A8%EA%B3%BC%EC%A0%9C%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%204.jpg
   * https://github.com/IE-PY-2026-1/ie-py-homework-ju2605870mju-1/blob/main/4%EC%B0%A8%EA%B3%BC%EC%A0%9C%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%205.jpg
+  * https://github.com/IE-PY-2026-1/ie-py-homework-ju2605870mju-1/blob/main/4%EC%B0%A8%EA%B3%BC%EC%A0%9C%20%EC%8B%A4%ED%96%89%EA%B2%B0%EA%B3%BC%206.jpg
 <br>
